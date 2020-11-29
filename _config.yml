@@ -1,8 +1,8 @@
 # Setup
 title: BlueDiablos Android Studio Blog
-url: https://stiaannel.co.za/blog2
+url: https://stiaannel.co.za/blue-android-studio-blog
 paginate: 1
-baseurl: "/blog2"
+baseurl: "/blue-android-studio-blog"
 permalink: pretty
 
 # Gems
@@ -32,16 +32,16 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Blue
+  url: ""
+  email: ""
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Archive
     url: /archive
 
   - title: About
