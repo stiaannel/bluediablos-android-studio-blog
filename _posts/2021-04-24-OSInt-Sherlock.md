@@ -6,7 +6,7 @@ categories: [OSINT]
 tags: [OSINT]
 last_modified_at: 2021-04-24
 ---
-
+# intro
 Sherlock is used to gather Intel about your target's username and where your target is registered.
 
 ## Installation
