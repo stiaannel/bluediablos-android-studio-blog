@@ -37,7 +37,6 @@ cd sherlock
 Links:
 
 - [Github](https://github.com/sherlock-project/sherlock)
-- [Google Cloud Shell](https://console.cloud.google.com/)
 
 Source(s):
 

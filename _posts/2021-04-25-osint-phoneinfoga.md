@@ -29,7 +29,6 @@ phoneinfoga scan -n <country-code + Number>
 Links:
 
 - [Github](https://github.com/sundowndev/PhoneInfoga)
-- [Google Cloud Shell](https://console.cloud.google.com/)
 
 Source(s):
 
