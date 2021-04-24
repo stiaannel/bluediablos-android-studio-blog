@@ -10,11 +10,7 @@ layout: default
   {% else %}
 <h1 class="post-title">{{ page.title | smartify }}</h1>
   {% endif %}
-  {% if post.title = "Introduction" %}
-  <div></div>
-  {% else %}
-    <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_long_string: "ordinal", "US" }}
-  {% endif %}
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_long_string: "ordinal", "US" }}
   {% if post %}
   {% assign categories = post.categories %}
   {% else %}
