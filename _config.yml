@@ -3,7 +3,7 @@ title: Blog
 tagline: a Hacking and Open-source intelligence tools I found
 url: https://BlueDiablos1234.github.io
 paginate: 1
-baseurl: ""
+baseurl: "/introduction"
 permalink: :title/
 
 kramdown:
@@ -37,9 +37,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Victor Johnson
-  url: https://twitter.com/essentialenemy
-  email: me@essentialenemy.com
+  name: Blue Diablos
+  url: ""
+  email: ""
 
 # Custom vars
 version: 1.3.0

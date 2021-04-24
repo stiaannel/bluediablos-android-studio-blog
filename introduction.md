@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Introduction
-categories: [Introduction]
-tags: [Introduction]
+layout: page
+title: Styles
 ---
 
 ## Welcome to this archive
