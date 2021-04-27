@@ -8,7 +8,7 @@ tags: [Newbie]
 
 This post will contain a list of beginner linux terminal commands
 
-### # Print working directory
+### 1. Print working directory
 
 ***
 
@@ -16,7 +16,7 @@ This post will contain a list of beginner linux terminal commands
 pwd
 ```
 
-### # List files in current directory
+### 2. List files in current directory
 
 ***
 
@@ -32,7 +32,7 @@ List hidden items (has a verbose output)
 ls -a
 ```
 
-### 1. Change Directory
+### 3. Change Directory
 
 ***
 
@@ -40,7 +40,7 @@ ls -a
 cd <directory to change to>
 ```
 
-### 2. Make Folder
+### 4. Make Folder
 
 ***
 
@@ -48,7 +48,7 @@ cd <directory to change to>
 mkdir <folder name>
 ```
 
-### 3. Remove Folder
+### 5. Remove Folder
 
 ***
 
@@ -56,7 +56,7 @@ mkdir <folder name>
 rmdir <folder to remove>
 ```
 
-### 4. The Remove Command
+### 6. The Remove Command
 
 ***
 
@@ -64,7 +64,7 @@ rmdir <folder to remove>
 rm <file to remove>
 ```
 
-### 5. Create a New empty File
+### 7. Create a New empty File
 
 ***
 
@@ -72,7 +72,7 @@ rm <file to remove>
 touch <file name here>
 ```
 
-### 6. Help and Manuals
+### 8. Help and Manuals
 
 ***
 
@@ -88,7 +88,7 @@ alternatively
 <command> --help
 ```
 
-### 6. Copying a file
+### 9. Copying a file
 
 ***
 
@@ -96,7 +96,7 @@ alternatively
 cp <file name> <location>
 ```
 
-### 6. Moving a file
+### 10. Moving a file
 
 ***
 
@@ -104,7 +104,7 @@ cp <file name> <location>
 mv <file name> <location>
 ```
 
-### 6. Renaming a file
+### 11. Renaming a file
 
 ***
 
@@ -112,7 +112,7 @@ mv <file name> <location>
 mv <file name> <new name>
 ```
 
-### 7. Searching for commands
+### 12. Searching for commands
 
 ***
 
