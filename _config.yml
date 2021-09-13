@@ -3,7 +3,7 @@ title: Blog
 tagline: Hacking and Open-source Intelligence Tools I Found
 url: https://n-8.co.za
 paginate: 1
-baseurl: ""
+baseurl: "/blog"
 permalink: :title/
 
 kramdown:
