@@ -7,7 +7,7 @@ title: Home
   {% for post in paginator.posts %}
   <article class="post">
 <h1 class="post-title">
-<a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title | smartify }}</a>{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}
+<a href="{% if post.link %}{{ site.baseurl }}/{{ post.link }}{% else %}{{ site.baseurl }}/{{ post.url }}{% endif %}">{{ post.title | smartify }}</a>{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}
 </h1>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_long_string: "ordinal", "US" }}
     {% if post %}
@@ -26,7 +26,7 @@ title: Home
 
 <span class="permalink">
 {% if post.link %}
-<a href="{{ post.url }}">Permalink</a>
+<a href="{{ site.baseurl }}/{{ post.url }}">Permalink</a>
 {% endif %}
 </span>
 
